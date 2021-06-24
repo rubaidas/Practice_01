@@ -1,0 +1,3 @@
+include ':retpahC'
+include ':app'
+rootProject.name = "Practice_01"
